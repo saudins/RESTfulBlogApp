@@ -1,2 +1,2 @@
 # RESTfulBlogApp
-Learnig RESTful routes, Node.js, Ejs, Mongo DB.
+Learnig RESTful routes, Node.js, Express, Ejs, Mongo DB.
